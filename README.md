@@ -2,12 +2,12 @@
 
 Este es un proyecto básico en .NET que muestra cómo usar **Quartz.NET** para ejecutar tareas programadas. El job implementado imprime la **hora actual cada 10 segundos** en la consola.
 
-## 🚀 ¿Qué hace este proyecto?
+## ¿Qué hace este proyecto?
 
 - Crea un **job** que muestra la hora actual.
 - Usa Quartz.NET para programar su ejecución cada 10 segundos.
 
-## ▶️ Cómo ejecutarlo
+## Cómo ejecutarlo
 
 1. **Clona el repositorio**:
 
